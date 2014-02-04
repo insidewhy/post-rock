@@ -1,0 +1,10 @@
+{
+  "name": "post-rock",
+  "description": "A command-line argument parser.",
+  "copyright": "Copyright © 2012-2014, James Pike",
+  "authors": ["chilon"],
+  "dependencies": {
+    "d-beard" : "1.0.0"
+  },
+  "targetType": "library"
+}
